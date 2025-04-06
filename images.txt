@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 --platform=linux/arm64 linux/amd64
+
